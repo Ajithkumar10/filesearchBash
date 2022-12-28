@@ -1,0 +1,1 @@
+This script uses the find command to search for files in the root directory and its subdirectories, and the grep command to search for the string in each file. If the string is found, it prints the file path.
